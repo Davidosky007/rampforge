@@ -68,3 +68,5 @@ end
 gem "rspec-rails", "~> 8.0", groups: [:development, :test]
 
 gem "factory_bot_rails", "~> 6.5", groups: [:development, :test]
+
+gem "bcrypt", "~> 3.1"
